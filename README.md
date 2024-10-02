@@ -18,7 +18,7 @@
 
 ## How to Use
 
-![FollowLink Example](https://your-github-image-link)
+![demo](https://github.com/user-attachments/assets/771e4753-3a7f-48ff-ba14-686b37153353)
 
 1. **Clone the Repository:**
 
