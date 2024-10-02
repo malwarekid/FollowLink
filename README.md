@@ -16,6 +16,12 @@
 - **Detailed Redirect History:** Displays each redirect step with status codes and URLs.
 - **Final URL & Time:** Outputs the final destination URL and total response time.
 
+## Install using pip
+
+   ```bash
+   pip install followlink
+   ```
+
 ## How to Use
 
 ![demo](https://github.com/user-attachments/assets/771e4753-3a7f-48ff-ba14-686b37153353)
